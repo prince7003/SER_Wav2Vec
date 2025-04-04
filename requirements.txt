@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+torch
+librosa
+matplotlib
+flask
+torchaudio
+transformers
+tqdm
+soundfile
+requests
+streamlit
